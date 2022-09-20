@@ -1,4 +1,4 @@
-#Patika.dev temel python flatten projesi
+#Patika.dev temel python flatten fonksiyon projesi
 
 list = [[1,'a',['cat'],2],[[[3]],'dog'],4,5]
 
